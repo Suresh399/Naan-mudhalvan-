@@ -1,0 +1,1 @@
+'\x16'Key.ctrl_l'u''r''e''\x16'Key.ctrl_l'h'Key.space'g''o''p''i'Key.space'k'
